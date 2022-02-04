@@ -11881,7 +11881,7 @@
     (uuid b147ac7b-ecaa-435a-9dbb-edf7b2985e71)
     (property "Reference" "J1" (id 0) (at 128.27 22.86 0))
     (property "Value" "STEMMA_I2C_QT" (id 1) (at 128.27 25.4 0))
-    (property "Footprint" "" (id 2) (at 128.27 31.75 0)
+    (property "Footprint" "Connector_JST:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical" (id 2) (at 128.27 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 128.27 31.75 0)
@@ -12354,7 +12354,7 @@
       (reference "D1") (unit 1) (value "RED") (footprint "")
     )
     (path "/b147ac7b-ecaa-435a-9dbb-edf7b2985e71"
-      (reference "J1") (unit 1) (value "STEMMA_I2C_QT") (footprint "")
+      (reference "J1") (unit 1) (value "STEMMA_I2C_QT") (footprint "Connector_JST:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical")
     )
     (path "/fac4a43a-8af7-4b54-b58e-40a7801daa51"
       (reference "J2") (unit 1) (value "Conn_01x01") (footprint "")
